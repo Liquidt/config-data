@@ -1,5 +1,5 @@
 server:
-  port: 1821
+  port: 2021
 
 eureka:
   client:
